@@ -1,7 +1,7 @@
 //Nicholas Rivas
 //11/18/25
 
-public class Parentheses {
+public class Check {
     // pre-condition: The characters in the string only contain the characters "(,),{,},[,]"
     //post-condtion: Returns true if the brackets are properly matched & in the correct order but will return false otherwise
    
